@@ -1,3 +1,6 @@
+This repository contains the implementation and experimental results of my thesis work on fine-tuning and evaluating Stable Diffusion 2.1 (SD2.1) using the data-is-better-together/open-image-preferences-v1-binarized dataset.
+This project builds upon the official Hugging Face Diffusers text-to-image fine-tuning example and documentation for Stable Diffusion, adapted and extended for the experiments conducted in this thesis.
+
 # Stable Diffusion text-to-image fine-tuning
 
 ## Architecture
