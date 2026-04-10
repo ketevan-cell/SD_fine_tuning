@@ -25,7 +25,7 @@ git clone https://github.com/ketevan-cell/SD_fine_tuning.git
 
 ## Instructions on How to Run the code
 
-In my thesis I used Stable Diffusion 2.1 [its card](https://huggingface.co/stabilityai/stable-diffusion-2-1).
+In my thesis I used Stable Diffusion 2.1 
 
 
 ### Hardware
